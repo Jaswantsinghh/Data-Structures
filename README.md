@@ -8,8 +8,11 @@ Instead of declaring individual variables, such as number0, number1, ..., and nu
 All arrays consist of contiguous memory locations. The lowest address corresponds to the first element and the highest address to the last element.
 ### Worst Case Complexity 
 Access - O(1)
+
 Add - O(n)
+
 Delete - O(n)
+
 Finding - O(n)
 
 
