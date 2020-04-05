@@ -1,5 +1,6 @@
 #include <stdio.h>
 int add(int arr[], int position, int value);
+int search(int *arr,int key);
 int main()
 {
     int arr[5] = {2,3,1,6,0}; /*intialising an array*/
@@ -25,6 +26,22 @@ int add(int arr[],int position,int value) /*Function to add a new value at a pos
        printf("%d\n",new_array[k]);
    }
   return new_array;
+}
+
+
+int search(int *arri,int key) /*Function to search an element in an array*/
+{ 
+int i;
+    for(i=0; i<5; i++)
+    {
+        if(a[i]==key)
+        {
+             return 1;		 
+        }
+ 
+    }
+    
+return 0;
 }
 
 
