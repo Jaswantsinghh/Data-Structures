@@ -34,4 +34,15 @@ When we declare an array, we also declare number of elements which get fixed for
 1. Singly Linked List.
 1. Doubly Linked List.
 1. Circular Linked List.
+#### 1. Singly Linked List:-
+In a singly linked list, each node stores a reference to an object that is an element of the sequence, as well as a reference to the next node of the list. It does not store any pointer or reference to the previous node.
+To store a single linked list, only the reference or pointer to the first node in that list must be stored. The last node in a single linked list points to nothing.
+##### Worst Case Complexity
+Acess - O(n)
+
+Insert - O(n)
+
+Search - O(n)
+
+Delete - O(n)
 
