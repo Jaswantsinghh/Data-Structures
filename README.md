@@ -25,3 +25,6 @@ Add - O(n)
 Delete - O(n)
 
 Search - O(n)
+
+## 3. LINKED LIST:-
+
