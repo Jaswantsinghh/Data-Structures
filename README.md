@@ -45,4 +45,5 @@ Insert - O(n)
 Search - O(n)
 
 Delete - O(n)
+#### 1. Doubley Linked List:-
 
