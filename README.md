@@ -45,5 +45,13 @@ Insert - O(n)
 Search - O(n)
 
 Delete - O(n)
-#### 2. Doubley Linked List:-
+#### 2. Doubly Linked List:-
+Doubly linked list is a type of linked list in which each node apart from storing its data has two links. The first link points to the previous node in the list and the second link points to the next node in the list. The first node of the list has its previous link pointing to NULL similarly the last node of the list has its next node pointing to NULL. 
+##### Worst Case Complexity
+Access - O(n)
 
+Insert - O(n)
+
+Search - O(n)
+
+Delete - O(n)
