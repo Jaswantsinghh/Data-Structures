@@ -27,4 +27,11 @@ Delete - O(n)
 Search - O(n)
 
 ## 3. LINKED LIST:-
+Like arrays, Linked List is a linear data structure. Unlike arrays, linked list elements are not stored at a contiguous location; the elements are linked using pointers.
+### Why to choose linked list over arrays?
+When we declare an array, we also declare number of elements which get fixed for use but after that if we want to add some more elements i the array, then we have to declare a new array again and would copy elements from original array to new array or if we want to delete an element from an array then the space taken by that element will be not deleted and this will result in wastage of memory as well as inefficiency. So, if the data we are storing is not fixed and needed to be edited time by time, then linked list will work well as compared to an array.
+### Types of Linked Lists:-
+1. Singly Linked List.
+1. Doubly Linked List.
+1. Circular Linked List.
 
