@@ -28,7 +28,6 @@ int convert(string s)
     stack<char> stck;
     string dup;
     int len;
-    //stck.push('e');
     len=s.length();
     for(int i=0;i<len;++i)
     {
